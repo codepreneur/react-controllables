@@ -31,7 +31,8 @@
     "gulp-util": "~2.2.14"
   },
   "peerDependencies": {
-    "react": "*"
+    "react": "*",
+    "react-static-container": "verico/react-static-container"
   },
   "scripts": {
     "prepublish": "gulp build",
